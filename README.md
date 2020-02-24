@@ -1,0 +1,2 @@
+# kattis
+trash solutions
